@@ -1,0 +1,1 @@
+cmd_/home/choijunho/Desktop/Deviceinterrupt/Deviceinterrupt.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/choijunho/Desktop/Deviceinterrupt/Deviceinterrupt.ko /home/choijunho/Desktop/Deviceinterrupt/Deviceinterrupt.o /home/choijunho/Desktop/Deviceinterrupt/Deviceinterrupt.mod.o
